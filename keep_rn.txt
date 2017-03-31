@@ -1,0 +1,4 @@
+npm install -g react-native-git-upgrade
+npm install
+react-native-git-upgrade
+
